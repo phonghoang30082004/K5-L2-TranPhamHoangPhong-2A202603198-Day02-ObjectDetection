@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên:Trần Phạm Hoàng Phong
+- MSSV:2A202603198
+- Email: phonghoang30082004@gmail.com    
+- Lớp: 2A
+- Link repo bài làm: https://github.com/phonghoang30082004/K5-L2-TranPhamHoangPhong-2A202603198-Day02-ObjectDetection
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
